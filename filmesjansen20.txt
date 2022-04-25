@@ -196,7 +196,8 @@ https://dls7rxd829s2x.cloudfront.net/data/3/42814803.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ucFRXjYTuIhMEa2ZgK4FKrwTPN.jpg" group-title="DRAMA",bicho de sete cabeças
 https://dls7rxd829s2x.cloudfront.net/data/8/3f3157c8.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/sw644BbNIxSGRqjwAC50uskDBHg.jpg" group-title="DRAMA",Caranguejo Negro 
+https://dls7rxd829s2x.cloudfront.net/data/3/1819e173.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
