@@ -1,0 +1,281 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pyDjGw6CD7PDhtdbjZpLT9YzcPu.jpg" group-title="RECENTE",Homem Aranha
+https://dash.animaker.com/a/u/txxqb70041/video/qjgjs1635355238655.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WFVd1wiGNAk/VVpeejjRqJI/AAAAAAAATIo/yNhy9A4gxEQ/s1600/Estrada%2Bda%2BF%C3%BAria%2Bposter.jpg" group-title="RECENTE",MAD MAX HD
+https://dls7rxd829s2x.cloudfront.net/data/2/4cc74412.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/719aIhGrTrJ0yzkZ806Ea4rbonV.jpg" group-title="RECENTE",Ghostbusters Mais Além
+https://dls7rxd829s2x.cloudfront.net/data/d/318070ed.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="RECENTE",Homem-Aranha Longe de Casa
+https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
+
+#EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/a-tragedia-de-macbeth-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="RECENTE",A Tragédia de Macbeth
+https://dls7rxd829s2x.cloudfront.net/data/a/4e75ee7a.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg" group-title="TERROR",It A Coisa
+https://dls7rxd829s2x.cloudfront.net/data/7/035c7b87.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yVksBmUf2uwEruDttP3XtHamS8q.jpg" group-title="TERROR",It A Coisa – Capítulo 2
+https://dls7rxd829s2x.cloudfront.net/data/a/0804b07a.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg" group-title="TERROR",Resident Evil Bem-Vindo a Raccoon City
+https://dls7rxd829s2x.cloudfront.net/data/6/471eb386.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2tdouTnIOwcRUv9pWHow5vpUGH6.jpg" group-title="TERROR",Feitiço das Trevas
+https://dls7rxd829s2x.cloudfront.net/data/9/0bcfea09.mp4
+
+#EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/a-baba-o-chamado-das-sombras-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="TERROR",A Baba  O Chamado das Sombras
+https://dls7rxd829s2x.cloudfront.net/data/4/353b9684.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u9ekkViulyHAVCPFcXRgk06Z3PK.jpg" group-title="TERROR",O Mistério do Convento 2 Caçadora de Almas
+https://dls7rxd829s2x.cloudfront.net/data/c/3465119c.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3h34xP5pvLTA7ofOrfUnBN7CMDE.jpg" group-title="TERROR",Raizes Macabras
+https://dls7rxd829s2x.cloudfront.net/data/e/288669be.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ipjlnmwq2BynJt4ZCLI95PwbFV3.jpg" group-title="TERROR",A Viúva das Sombras
+https://dls7rxd829s2x.cloudfront.net/data/8/2c200418.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/piKPOYLyRfmSUEBO4S4Fyq4bXSI.jpg" group-title="TERROR",Não Adianta Rezar
+https://dls7rxd829s2x.cloudfront.net/data/3/042ca423.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg" group-title="TERROR",Invocação do Mal 3 A Ordem do Demônio
+https://dls7rxd829s2x.cloudfront.net/data/0/7b5ce550.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="TERROR",Maligno
+https://dls7rxd829s2x.cloudfront.net/data/b/1cc18a8b.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg" group-title="AÇÃO",Eternos
+https://dls7rxd829s2x.cloudfront.net/data/7/6bd05f47.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="AÇÃO",X-Men Fênix Negra
+https://dash.animaker.com/a/u/txxqb70041/video/dqcbs1635684766375.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="AÇÃO",X-Men Fênix Negra
+https://dls7rxd829s2x.cloudfront.net/data/5/29f23505.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zBQFWjOIE3hoYCG67Y3VVaSnLyc.jpg" group-title="AÇÃO",Pandemia A Guerra Final
+https://dls7rxd829s2x.cloudfront.net/data/6/5ea70ba6.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yfocdCwsdaJQNOpXacHet1S3QEN.jpg" group-title="AÇÃO",Colombiana: Em Busca de Vingança 
+https://dls7rxd829s2x.cloudfront.net/data/6/596d8ec6.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qluvMxXA2p15s7egazJn9vhX5Gi.jpg" group-title="AÇÃO",Atirador 
+https://dls7rxd829s2x.cloudfront.net/data/0/6a5d4020.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg" group-title="AÇÃO",Alerta Vermelho
+https://dls7rxd829s2x.cloudfront.net/data/5/0bb95f95.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg" group-title="AÇÃO",Homem-Aranha Sem Volta Para Casa
+https://dls7rxd829s2x.cloudfront.net/data/b/12ac15fb.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="AÇÃO",Homem-Aranha Longe de Casa
+https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="AÇÃO",Velozes e Furiosos Hobbs & Shaw 
+https://dls7rxd829s2x.cloudfront.net/data/9/1010cae9.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="AÇÃO",Velozes & Furiosos 9
+https://dls7rxd829s2x.cloudfront.net/data/f/435c6e6f.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg" group-title="AÇÃO",Matrix Resurrections
+https://dls7rxd829s2x.cloudfront.net/data/6/04bf3826.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/h5UzYZquMwO9FVn15R2eK2itmHu.jpg" group-title="AÇÃO",Venom Tempo de Carnificina
+https://dls7rxd829s2x.cloudfront.net/data/e/45d871ee.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wTS3dS2DJiMFFgqKDz5fxMTri.jpg" group-title="AÇÃO",O Esquadrão Suicida
+https://dls7rxd829s2x.cloudfront.net/data/d/03f5347d.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ijvC2w2yANsfgLT3LMu2zFr0fxh.jpg" group-title="AÇÃO",Mortal Kombat
+https://dls7rxd829s2x.cloudfront.net/data/7/33e08247.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pVL9AyKKLfUwrYD6jhdsI15gBQ7.jpg" group-title="AÇÃO",Kings Man A Origem
+https://dls7rxd829s2x.cloudfront.net/data/5/30f93235.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9PbtCo5IIkd26WPQfZUpPyn6fTz.jpg" group-title="ANIMAÇÃO",Hotel Transilvânia Transformonstrão
+https://dls7rxd829s2x.cloudfront.net/data/2/568d23e2.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/mPL2M1Lw6SzbmcTUouUk7B5s3X3.jpg" group-title="ANIMAÇÃO",Ultimate Homem-Aranha
+https://fast.getshow.io/p/u/txxqb70041/stream/32893hXz98QJMgGVa9bxcv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/n1oFUoYmj4JuJl5T417VQnZNCgB.jpg" group-title="ANIMAÇÃO", Lobo
+https://fast.getshow.io/p/u/txxqb70041/stream/5955715V5fAqCBs6YGeeBv6.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/xGkmm8YB1HzM3GaQ3FBv1NTwWxS.jpg" group-title="ANIMAÇÃO",Ainbo A Guerreira da Amazônia
+https://dls7rxd829s2x.cloudfront.net/data/f/1ac26dff.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="ANIMAÇÃO",A Era do Gelo As Aventuras de Buck
+https://dls7rxd829s2x.cloudfront.net/data/d/459cb24d.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="ANIMAÇÃO",encanto
+https://dls7rxd829s2x.cloudfront.net/data/6/758d2d76.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" group-title="ANIMAÇÃO",Como Treinar o Seu Dragão 3
+https://dls7rxd829s2x.cloudfront.net/data/2/59aa0ea2.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/p033k6k8V9USI0TWZavIxoYzsGi.jpg" group-title="ANIMAÇÃO",O Poderoso Chefinho 2 Negocios da Família
+https://dls7rxd829s2x.cloudfront.net/data/5/3e7e4d45.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="ANIMAÇÃO",Sing 2 
+https://dls7rxd829s2x.cloudfront.net/data/b/1f63a09b.mp4
+
+#EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/red-crescer-e-uma-fera-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="ANIMAÇÃO",Red  Crescer é uma Fera
+https://dls7rxd829s2x.cloudfront.net/data/e/61f0d6ee.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg" group-title="COMEDIA",Cruella
+https://fast.getshow.io/p/u/txxqb70041/stream/30487uaARTUjhcBkGDrLDv6.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5ZPbBXyjkgIbOasAIduF19EYYGZ.jpg" group-title="COMEDIA",Click
+https://dls7rxd829s2x.cloudfront.net/data/d/1de5ef5d.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oB7hflIVj3gKGB2R4gtnx5mHFyU.jpg" group-title="COMEDIA",Tô Ryca
+https://dls7rxd829s2x.cloudfront.net/data/8/3f6041a8.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5yTpx1nE5PM8DhVxWVIq4ikKZc2.jpg" group-title="COMEDIA",Amarração do Amor
+https://dls7rxd829s2x.cloudfront.net/data/7/245efd07.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg" group-title="COMEDIA",Free Guy Assumindo o Controle
+https://dls7rxd829s2x.cloudfront.net/data/b/518d91ab.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg" group-title="COMEDIA",Em Guerra com o Vovô
+https://dls7rxd829s2x.cloudfront.net/data/2/72ffb2b2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4b65jVx7b0CZGkXX4nOUGvTvZ07.jpg" group-title="DRAMA",O Canto do Cisne 
+https://dls7rxd829s2x.cloudfront.net/data/e/72de5ece.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jART4wnzFZeZ2fDpPwVvm9qihTA.jpg" group-title="DRAMA",Um Milagre Inesperado
+https://dls7rxd829s2x.cloudfront.net/data/6/4f49db36.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/x1jViuXsm5ZmrR6uFmxU6AVdXzs.jpg" group-title="DRAMA",O Regresso
+https://app.multcloud.com/api/files/e05308f71c3c40c388499432d6eb4ba2/content?
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/3W5jF8z5GkOHEslaIv89Ncp06J4.jpg" group-title="DRAMA",Quatro Vidas de um Cachorro
+https://dls7rxd829s2x.cloudfront.net/data/a/3506d93a.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/iVMpPYluGI1jcxCtydYCy8UaKtm.jpg" group-title="DRAMA",Inteligência Artificial Ascensão das Máquinas
+https://dls7rxd829s2x.cloudfront.net/data/3/42814803.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ucFRXjYTuIhMEa2ZgK4FKrwTPN.jpg" group-title="DRAMA",bicho de sete cabeças
+https://dls7rxd829s2x.cloudfront.net/data/8/3f3157c8.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="AVENTURA",Finch
+https://dash.animaker.com/a/u/txxqb70041/video/proxy1/pvgbt1636130003175.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="AVENTURA",Finch A
+https://dls7rxd829s2x.cloudfront.net/data/c/7854ca3c.mp4  
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg" group-title="AVENTURA",Godzilla vs Kong
+https://dls7rxd829s2x.cloudfront.net/data/b/2543321b.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4kDlHPIpBSvFmQREFlN1JiU0xRw.jpg" group-title="SUSPENSE",O Mundo dos Esquecidos
+https://dls7rxd829s2x.cloudfront.net/data/7/37d90817.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oLuIH5Mkl9OBefhNC1NtJRTDb1H.jpg" group-title="SUSPENSE",Os Intrusos 
+https://fast.getshow.io/p/u/txxqb70041/stream/34175dGzuTlfUIOTG3sLkv6.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/DUNRzBjRKE1pvl2jiiooDLafKf.jpg" group-title="SUSPENSE",Kimi Alguém Está Escutando
+https://dls7rxd829s2x.cloudfront.net/data/c/2dcdd11c.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+
+ #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/muLbLW8kWOSiEBLgmHeAw6gKpB0.jpg" group-title="Suspicion" pltv-subgroup="Suspicion 1ª Temporada",Suspicion1
+ https://dls7rxd829s2x.cloudfront.net/data/3/4855dbb3.mp4
+
+ #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/muLbLW8kWOSiEBLgmHeAw6gKpB0.jpg" group-title="Suspicion" pltv-subgroup="Suspicion 1ª Temporada",Suspicion2
+ https://dls7rxd829s2x.cloudfront.net/data/e/3e68d78e.mp4
+
+ #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/muLbLW8kWOSiEBLgmHeAw6gKpB0.jpg" group-title="Suspicion" pltv-subgroup="Suspicion 1ª Temporada",Suspicion3
+ https://dls7rxd829s2x.cloudfront.net/data/2/42747242.mp4
+
+  #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg" group-title="ICARLY" pltv-subgroup="ICARLY 1ª Temporada",icarly1
+https://dls7rxd829s2x.cloudfront.net/data/d/523b1a4d.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg" group-title="ICARLY" pltv-subgroup="ICARLY 1ª Temporada",icarly2
+https://dls7rxd829s2x.cloudfront.net/data/b/6a20bd4b.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg" group-title="ICARLY" pltv-subgroup="ICARLY 1ª Temporada",icarly3
+https://dls7rxd829s2x.cloudfront.net/data/1/3c356971.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg" group-title="ICARLY" pltv-subgroup="ICARLY 1ª Temporada",icarly4
+https://dls7rxd829s2x.cloudfront.net/data/9/38f66799.mp4
+
+
+
+
+
+
+
+
+
+
