@@ -112,6 +112,9 @@ https://dls7rxd829s2x.cloudfront.net/data/7/33e08247.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pVL9AyKKLfUwrYD6jhdsI15gBQ7.jpg" group-title="AÇÃO",Kings Man A Origem
 https://dls7rxd829s2x.cloudfront.net/data/5/30f93235.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qgW5iIe6QUn170omG6tdGS4BB9U.jpg" group-title="AÇÃO",Agente das Sombras 
+https://dls7rxd829s2x.cloudfront.net/data/0/2eaa9820.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
