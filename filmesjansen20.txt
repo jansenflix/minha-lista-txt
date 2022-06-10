@@ -118,7 +118,7 @@ https://dls7rxd829s2x.cloudfront.net/data/0/2eaa9820.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg" group-title="AÇÃO",chamas da vingança
 https://dls7rxd829s2x.cloudfront.net/data/0/142d1fa0.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mqCLGi2YxlqwWeGN7NRILYQOhm.jpg" group-title="AÇÃO",O HOMEM DO NORTE
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mqCLGi2YxlqwWeGN7NRILYQOhm.jpg" group-title="AÇÃO",LUTA PELA FÉ  A HISTÓRIA DO PADRE STU
 https://dls7rxd829s2x.cloudfront.net/data/5/3161b535.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg" group-title="AÇÃO",MORBIUS
@@ -167,6 +167,15 @@ https://dls7rxd829s2x.cloudfront.net/data/b/1f63a09b.mp4
 
 #EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/red-crescer-e-uma-fera-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="ANIMAÇÃO",Red  Crescer é uma Fera
 https://dls7rxd829s2x.cloudfront.net/data/e/61f0d6ee.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg" group-title="ANIMAÇÃO",SONIC 2
+https://dls7rxd829s2x.cloudfront.net/data/8/51c105d8.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
