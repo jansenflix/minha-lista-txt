@@ -172,7 +172,8 @@ https://dls7rxd829s2x.cloudfront.net/data/e/61f0d6ee.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg" group-title="ANIMAÇÃO",SONIC 2
 https://dls7rxd829s2x.cloudfront.net/data/8/51c105d8.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="ANIMAÇÃO", A ERA DO GELO - AS AVENTURAS DE BUCK
+https://dls7rxd829s2x.cloudfront.net/data/d/459cb24d.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
