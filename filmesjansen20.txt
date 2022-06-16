@@ -49,7 +49,8 @@ https://dls7rxd829s2x.cloudfront.net/data/0/7b5ce550.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="TERROR",Maligno
 https://dls7rxd829s2x.cloudfront.net/data/b/1cc18a8b.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dvsh3qYE2TVhjlQFYV7o13jTAvr.jpg" group-title="TERROR",o chamado 3
+https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 
@@ -251,6 +252,15 @@ https://dls7rxd829s2x.cloudfront.net/data/a/2c770cda.mp4
 
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/capa/o-hobbit-versao-estendida-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="AVENTURA",O Hobbit: A Desolação de Smaug
 https://dls7rxd829s2x.cloudfront.net/data/6/67988a16.mp4
+
+#EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/ghostbusters-mais-alem-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="AVENTURA",GHOSTBUSTERS - MAIS ALÉM 
+https://dls7rxd829s2x.cloudfront.net/data/d/318070ed.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 
