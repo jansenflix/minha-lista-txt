@@ -128,7 +128,8 @@ https://dls7rxd829s2x.cloudfront.net/data/9/56ad48d9.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/mqCLGi2YxlqwWeGN7NRILYQOhm.jpg" group-title="AÇÃO",O HOMEM DO NORTE
 https://dls7rxd829s2x.cloudfront.net/data/3/11d920d3.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/doutor-estranho-no-multiverso-da-loucura-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="AÇÃO", DOUTOR ESTRANHO NO MULTIVERSO DA LOUCURA
+https://dls7rxd829s2x.cloudfront.net/data/3/0dc39a13.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
