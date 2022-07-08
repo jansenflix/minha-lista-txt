@@ -233,7 +233,8 @@ https://dls7rxd829s2x.cloudfront.net/data/3/1819e173.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lnu4b9S.jpg" group-title="DRAMA",O REGRESSO
 https://dls7rxd829s2x.cloudfront.net/data/e/7279515e.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/capas/coringa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="DRAMA",CORINGA
+https://dls7rxd829s2x.cloudfront.net/data/8/3f026de8.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
