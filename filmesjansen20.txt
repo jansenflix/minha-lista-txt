@@ -192,9 +192,11 @@ https://dls7rxd829s2x.cloudfront.net/data/2/24fe2f72.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/Acj5mmoZQ5lKLNpU2y0XQCt5rNb.jpg" group-title="ANIMAÇÃO",Cinderela-1
 https://dls7rxd829s2x.cloudfront.net/data/5/385e1d55.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ap19fJ8WqdjXSpkreUawPGB0ezN.jpg" group-title="ANIMAÇÃO",Cinderela-2
+https://dls7rxd829s2x.cloudfront.net/data/c/70109a1c.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/iPC0TGg9W4V4tLaLuT5eEE37pOB.jpg" group-title="ANIMAÇÃO",Cinderela-3
+https://dls7rxd829s2x.cloudfront.net/data/4/6cd19844.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
@@ -222,6 +224,23 @@ https://dls7rxd829s2x.cloudfront.net/data/b/518d91ab.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg" group-title="COMEDIA",Em Guerra com o Vovô
 https://dls7rxd829s2x.cloudfront.net/data/2/72ffb2b2.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6avuLZ7cyho8KXE1TWOdvXK2Yiz.jpg" group-title="COMEDIA",HORA DE BRILHAR
+https://dls7rxd829s2x.cloudfront.net/data/9/3f863a09.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
