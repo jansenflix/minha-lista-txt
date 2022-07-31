@@ -186,9 +186,11 @@ https://dls7rxd829s2x.cloudfront.net/data/1/37fba811.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/bobs-burgers-o-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="ANIMAÇÃO",BOBS BURGERS
 https://dls7rxd829s2x.cloudfront.net/data/1/2c06ca41.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mHGQgwbunagp0GwvyMJ2QDmkV6d.jpg" group-title="ANIMAÇÃO",ATÉ OS RATOS MERECEM O CÉU
+https://dls7rxd829s2x.cloudfront.net/data/2/24fe2f72.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/Acj5mmoZQ5lKLNpU2y0XQCt5rNb.jpg" group-title="ANIMAÇÃO",Cinderela-1
+https://dls7rxd829s2x.cloudfront.net/data/5/385e1d55.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
