@@ -198,8 +198,7 @@ https://dls7rxd829s2x.cloudfront.net/data/c/70109a1c.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/iPC0TGg9W4V4tLaLuT5eEE37pOB.jpg" group-title="ANIMAÇÃO",Cinderela-3
 https://dls7rxd829s2x.cloudfront.net/data/4/6cd19844.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",Hotel Trans
-https://
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
