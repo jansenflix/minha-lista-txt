@@ -281,7 +281,8 @@ https://dls7rxd829s2x.cloudfront.net/data/2/1771f4e2.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/um-milagre-inesperado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="DRAMA",MILAGRE INESPERADO
 https://dls7rxd829s2x.cloudfront.net/data/6/4f49db36.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/uPt56D7a55ZNn1yJqKWgBHhqJQ3.jpg" group-title="DRAMA",Milagres do Paraíso 
+
 
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
