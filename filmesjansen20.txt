@@ -231,7 +231,8 @@ https://dls7rxd829s2x.cloudfront.net/data/2/72ffb2b2.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6avuLZ7cyho8KXE1TWOdvXK2Yiz.jpg" group-title="COMEDIA",HORA DE BRILHAR
 https://dls7rxd829s2x.cloudfront.net/data/9/3f863a09.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="TESTE",
+https://fast.getshow.io/p/u/txxqb70041/stream/40238GryFpNraGUUaiNh2v6.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
