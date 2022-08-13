@@ -97,7 +97,7 @@ https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
 https://dls7rxd829s2x.cloudfront.net/data/9/1010cae9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="AÇÃO",Velozes & Furiosos 9
-https://dls7rxd829s2x.cloudfront.net/data/f/435c6e6f.mp4
+https://dls7rxd829s2x.cloudfront.net/data/8/1f1554f8.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg" group-title="AÇÃO",Matrix Resurrections
 https://dls7rxd829s2x.cloudfront.net/data/6/04bf3826.mp4
@@ -134,6 +134,27 @@ https://dls7rxd829s2x.cloudfront.net/data/c/61de4aec.mp4
 
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/assassino-sem-rastro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="AÇÃO",ASSASSINO SEM RASTRO
 https://dls7rxd829s2x.cloudfront.net/data/2/30499d42.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg" group-title="AÇÃO",DUPLA JORNADA
+https://dls7rxd829s2x.cloudfront.net/data/3/09d21993.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
@@ -206,9 +227,11 @@ https://dls7rxd829s2x.cloudfront.net/data/2/475b1932.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bzl8Z3PdFQscUI568ZvGb0y5d9U.jpg" group-title="ANIMAÇÃO",PRINCESA POR ACIDENTE
 https://dls7rxd829s2x.cloudfront.net/data/f/6c1a268f.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tT3w6eGMubdFGGmwLZlUZvYNYTO.jpg" group-title="ANIMAÇÃO",Sorte
+https://dls7rxd829s2x.cloudfront.net/data/7/74181f27.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9nVmbrMpEI6iYrMWzMfkpCgp1ho.jpg" group-title="ANIMAÇÃO",MINIONS 2  A ORIGEM DE GRU
+https://dls7rxd829s2x.cloudfront.net/data/7/1fb1ef37.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
@@ -297,7 +320,7 @@ https://dls7rxd829s2x.cloudfront.net/data/6/4f49db36.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/uPt56D7a55ZNn1yJqKWgBHhqJQ3.jpg" group-title="DRAMA",Milagres do Paraíso 
 https://dls7rxd829s2x.cloudfront.net/data/3/1d97db13.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tzVpukXgB0BwLu1Rr14o9q1495p.jpg" group-title="DRAMA",Sequestro: Inocência Roubada
 
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
