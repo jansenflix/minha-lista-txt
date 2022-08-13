@@ -318,8 +318,10 @@ https://dls7rxd829s2x.cloudfront.net/data/6/4f49db36.mp4
 https://dls7rxd829s2x.cloudfront.net/data/3/1d97db13.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tzVpukXgB0BwLu1Rr14o9q1495p.jpg" group-title="DRAMA",Sequestro: Inocência Roubada
+https://dls7rxd829s2x.cloudfront.net/data/1/6762d831.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4bnCfbckr574xi5TiWkIZ8luWF4.jpg" group-title="DRAMA",ENJAULADO
+https://dls7rxd829s2x.cloudfront.net/data/d/5183028d.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
