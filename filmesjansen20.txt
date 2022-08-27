@@ -55,7 +55,8 @@ https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jA4h6xw5GhHnwqHtGd1VLNnl9XA.jpg" group-title="TERROR",ROGAI POR NÓS
 https://dls7rxd829s2x.cloudfront.net/data/7/15e4efe7.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="https://vacatorrent.com/capas/nos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="TERROR",NÓS 
+https://dls7rxd829s2x.cloudfront.net/data/2/6e06ee72.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 
