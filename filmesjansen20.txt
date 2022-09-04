@@ -142,7 +142,8 @@ https://dls7rxd829s2x.cloudfront.net/data/3/09d21993.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/samaritano-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="AÇÃO",SAMARITANO
 https://dls7rxd829s2x.cloudfront.net/data/d/6dca516d.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg" group-title="AÇÃO",TOP GUN - MAVERICK
+https://dls7rxd829s2x.cloudfront.net/data/9/6fa54d89.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
@@ -238,7 +239,8 @@ https://dls7rxd829s2x.cloudfront.net/data/7/1fb1ef37.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ix2HvdlfHsXqfneyngFzEOSDe7.jpg" group-title="ANIMAÇÃO",A Escola da Lucy
 https://dls7rxd829s2x.cloudfront.net/data/7/64f81797.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/cf3LFFa8BSJvQnPyZhCHmKUpptX.jpg" group-title="ANIMAÇÃO",A GALINHA TURULECA
+https://dls7rxd829s2x.cloudfront.net/data/a/468809da.mp4 
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
@@ -444,7 +446,9 @@ https://dls7rxd829s2x.cloudfront.net/data/a/1e07606a.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tOJPMGQcN9NUh0nymHwqa039ez5.jpg" group-title="SENHOR DOS ANEIS",EP2
 https://dls7rxd829s2x.cloudfront.net/data/2/0f722752.mp4
+
 ###################################################################################################################################################################################################################
+
 #EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP1
 https://dls7rxd829s2x.cloudfront.net/data/d/6ba6513d.mp4
 
