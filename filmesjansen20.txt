@@ -1,17 +1,23 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pyDjGw6CD7PDhtdbjZpLT9YzcPu.jpg" group-title="RECENTE",Homem Aranha
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pyDjGw6CD7PDhtdbjZpLT9YzcPu.jpg" group-title="MOVIES",Homem Aranha
 https://dash.animaker.com/a/u/txxqb70041/video/qjgjs1635355238655.mp4
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WFVd1wiGNAk/VVpeejjRqJI/AAAAAAAATIo/yNhy9A4gxEQ/s1600/Estrada%2Bda%2BF%C3%BAria%2Bposter.jpg" group-title="RECENTE",MAD MAX HD
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",ARANHA
+https://fast.getshow.io/p/u/txxqb70041/stream/32893hXz98QJMgGVa9bxcv4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",LOBO
+https://fast.getshow.io/p/u/txxqb70041/stream/5955715V5fAqCBs6YGeeBv6.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WFVd1wiGNAk/VVpeejjRqJI/AAAAAAAATIo/yNhy9A4gxEQ/s1600/Estrada%2Bda%2BF%C3%BAria%2Bposter.jpg" group-title="MOVIES",MAD MAX HD
 https://dls7rxd829s2x.cloudfront.net/data/2/4cc74412.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/719aIhGrTrJ0yzkZ806Ea4rbonV.jpg" group-title="RECENTE",Ghostbusters Mais Além
 https://dls7rxd829s2x.cloudfront.net/data/d/318070ed.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="RECENTE",Homem-Aranha Longe de Casa
-https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/a-tragedia-de-macbeth-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="RECENTE",A Tragédia de Macbeth
 https://dls7rxd829s2x.cloudfront.net/data/a/4e75ee7a.mp4
@@ -20,9 +26,9 @@ https://dls7rxd829s2x.cloudfront.net/data/a/4e75ee7a.mp4
 https://dls7rxd829s2x.cloudfront.net/data/7/035c7b87.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yVksBmUf2uwEruDttP3XtHamS8q.jpg" group-title="TERROR",It A Coisa – Capítulo 2
-https://dls7rxd829s2x.cloudfront.net/data/a/0804b07a.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg" group-title="TERROR",Resident Evil Bem-Vindo a Raccoon City
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg" group-title="TERROR",Resident Evil Bem-Vindo a Raccoon Cityyy
 https://dls7rxd829s2x.cloudfront.net/data/6/471eb386.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2tdouTnIOwcRUv9pWHow5vpUGH6.jpg" group-title="TERROR",Feitiço das Trevas
@@ -35,19 +41,19 @@ https://dls7rxd829s2x.cloudfront.net/data/4/353b9684.mp4
 https://dls7rxd829s2x.cloudfront.net/data/c/3465119c.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3h34xP5pvLTA7ofOrfUnBN7CMDE.jpg" group-title="TERROR",Raizes Macabras
-https://dls7rxd829s2x.cloudfront.net/data/e/288669be.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ipjlnmwq2BynJt4ZCLI95PwbFV3.jpg" group-title="TERROR",A Viúva das Sombras
 https://dls7rxd829s2x.cloudfront.net/data/8/2c200418.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/piKPOYLyRfmSUEBO4S4Fyq4bXSI.jpg" group-title="TERROR",Não Adianta Rezar
-https://dls7rxd829s2x.cloudfront.net/data/3/042ca423.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg" group-title="TERROR",Invocação do Mal 3 A Ordem do Demônio
-https://dls7rxd829s2x.cloudfront.net/data/0/7b5ce550.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="TERROR",Maligno
-https://dls7rxd829s2x.cloudfront.net/data/b/1cc18a8b.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dvsh3qYE2TVhjlQFYV7o13jTAvr.jpg" group-title="TERROR",o chamado 3
 https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
@@ -55,8 +61,8 @@ https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jA4h6xw5GhHnwqHtGd1VLNnl9XA.jpg" group-title="TERROR",ROGAI POR NÓS
 https://dls7rxd829s2x.cloudfront.net/data/7/15e4efe7.mp4
 
-#EXTINF:-1 tvg-logo="https://vacatorrent.com/capas/nos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="TERROR",NÓS 
-https://dls7rxd829s2x.cloudfront.net/data/2/6e06ee72.mp4
+#EXTINF:-1 tvg-logo="" group-title="TESTE",filme
+https://fast.getshow.io/p/u/txxqb70041/stream/40238GryFpNraGUUaiNh2v6.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 
@@ -72,10 +78,10 @@ https://dls7rxd829s2x.cloudfront.net/data/7/6bd05f47.mp4
 https://dash.animaker.com/a/u/txxqb70041/video/dqcbs1635684766375.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="AÇÃO",X-Men Fênix Negra
-https://dls7rxd829s2x.cloudfront.net/data/5/29f23505.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zBQFWjOIE3hoYCG67Y3VVaSnLyc.jpg" group-title="AÇÃO",Pandemia A Guerra Final
-https://dls7rxd829s2x.cloudfront.net/data/6/5ea70ba6.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yfocdCwsdaJQNOpXacHet1S3QEN.jpg" group-title="AÇÃO",Colombiana: Em Busca de Vingança 
 https://dls7rxd829s2x.cloudfront.net/data/6/596d8ec6.mp4
@@ -87,7 +93,7 @@ https://dls7rxd829s2x.cloudfront.net/data/0/6a5d4020.mp4
 https://dls7rxd829s2x.cloudfront.net/data/5/0bb95f95.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg" group-title="AÇÃO",Homem-Aranha Sem Volta Para Casa
-https://dls7rxd829s2x.cloudfront.net/data/b/12ac15fb.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="AÇÃO",Homem-Aranha Longe de Casa
 https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
@@ -98,7 +104,7 @@ https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
 https://dls7rxd829s2x.cloudfront.net/data/9/1010cae9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="AÇÃO",Velozes & Furiosos 9
-https://dls7rxd829s2x.cloudfront.net/data/8/1f1554f8.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg" group-title="AÇÃO",Matrix Resurrections
 https://dls7rxd829s2x.cloudfront.net/data/6/04bf3826.mp4
@@ -136,19 +142,11 @@ https://dls7rxd829s2x.cloudfront.net/data/c/61de4aec.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/assassino-sem-rastro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="AÇÃO",ASSASSINO SEM RASTRO
 https://dls7rxd829s2x.cloudfront.net/data/2/30499d42.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg" group-title="AÇÃO",DUPLA JORNADA
-https://dls7rxd829s2x.cloudfront.net/data/3/09d21993.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oI8Ajp9EtDhsd9S81yVRKGTUScM.jpg" group-title="AÇÃO",THOR - AMOR E TROVÃO
+https://dls7rxd829s2x.cloudfront.net/data/0/42a9f2c0.mp4
 
-#EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/samaritano-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="AÇÃO",SAMARITANO
-https://dls7rxd829s2x.cloudfront.net/data/d/6dca516d.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg" group-title="AÇÃO",TOP GUN - MAVERICK
-https://dls7rxd829s2x.cloudfront.net/data/9/6fa54d89.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
-
-
-#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" group-title="AÇÃO",Fim da Estrada
+https://dls7rxd829s2x.cloudfront.net/data/7/17546817.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
@@ -187,7 +185,7 @@ https://dls7rxd829s2x.cloudfront.net/data/d/459cb24d.mp4
 https://dls7rxd829s2x.cloudfront.net/data/6/758d2d76.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" group-title="ANIMAÇÃO",Como Treinar o Seu Dragão 3
-https://dls7rxd829s2x.cloudfront.net/data/2/59aa0ea2.mp4
+https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/p033k6k8V9USI0TWZavIxoYzsGi.jpg" group-title="ANIMAÇÃO",O Poderoso Chefinho 2 Negocios da Família
 https://dls7rxd829s2x.cloudfront.net/data/5/3e7e4d45.mp4
@@ -210,37 +208,14 @@ https://dls7rxd829s2x.cloudfront.net/data/1/37fba811.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/bobs-burgers-o-filme-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="ANIMAÇÃO",BOBS BURGERS
 https://dls7rxd829s2x.cloudfront.net/data/1/2c06ca41.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mHGQgwbunagp0GwvyMJ2QDmkV6d.jpg" group-title="ANIMAÇÃO",ATÉ OS RATOS MERECEM O CÉU
-https://dls7rxd829s2x.cloudfront.net/data/2/24fe2f72.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hNPr9ZjIFAnlvRdVUTlq4sFKvvT.jpg" group-title="ANIMAÇÃO",Pinóquio
+https://dls7rxd829s2x.cloudfront.net/data/0/238dfa00.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/Acj5mmoZQ5lKLNpU2y0XQCt5rNb.jpg" group-title="ANIMAÇÃO",Cinderela-1
-https://dls7rxd829s2x.cloudfront.net/data/5/385e1d55.mp4
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ap19fJ8WqdjXSpkreUawPGB0ezN.jpg" group-title="ANIMAÇÃO",Cinderela-2
-https://dls7rxd829s2x.cloudfront.net/data/c/70109a1c.mp4
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/iPC0TGg9W4V4tLaLuT5eEE37pOB.jpg" group-title="ANIMAÇÃO",Cinderela-3
-https://dls7rxd829s2x.cloudfront.net/data/4/6cd19844.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dkkgGoXR1L2MlRp5RkC3aAzJnJU.jpg" group-title="ANIMAÇÃO",Arcane
-https://dls7rxd829s2x.cloudfront.net/data/2/475b1932.mp4
-
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bzl8Z3PdFQscUI568ZvGb0y5d9U.jpg" group-title="ANIMAÇÃO",PRINCESA POR ACIDENTE
-https://dls7rxd829s2x.cloudfront.net/data/f/6c1a268f.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tT3w6eGMubdFGGmwLZlUZvYNYTO.jpg" group-title="ANIMAÇÃO",Sorte
-https://dls7rxd829s2x.cloudfront.net/data/7/74181f27.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9nVmbrMpEI6iYrMWzMfkpCgp1ho.jpg" group-title="ANIMAÇÃO",MINIONS 2  A ORIGEM DE GRU
-https://dls7rxd829s2x.cloudfront.net/data/7/1fb1ef37.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ix2HvdlfHsXqfneyngFzEOSDe7.jpg" group-title="ANIMAÇÃO",A Escola da Lucy
-https://dls7rxd829s2x.cloudfront.net/data/7/64f81797.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/cf3LFFa8BSJvQnPyZhCHmKUpptX.jpg" group-title="ANIMAÇÃO",A GALINHA TURULECA
-https://dls7rxd829s2x.cloudfront.net/data/a/468809da.mp4 
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
@@ -252,7 +227,7 @@ https://dls7rxd829s2x.cloudfront.net/data/a/468809da.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg" group-title="COMEDIA",Cruella
-https://fast.getshow.io/p/u/txxqb70041/stream/30487uaARTUjhcBkGDrLDv6.m3u8
+https://dls7rxd829s2x.cloudfront.net/data/a/3aff58fa.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5ZPbBXyjkgIbOasAIduF19EYYGZ.jpg" group-title="COMEDIA",Click
 https://dls7rxd829s2x.cloudfront.net/data/d/1de5ef5d.mp4
@@ -269,13 +244,9 @@ https://dls7rxd829s2x.cloudfront.net/data/b/518d91ab.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg" group-title="COMEDIA",Em Guerra com o Vovô
 https://dls7rxd829s2x.cloudfront.net/data/2/72ffb2b2.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6avuLZ7cyho8KXE1TWOdvXK2Yiz.jpg" group-title="COMEDIA",HORA DE BRILHAR
-https://dls7rxd829s2x.cloudfront.net/data/9/3f863a09.mp4
-
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
-
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
@@ -319,14 +290,11 @@ https://dls7rxd829s2x.cloudfront.net/data/2/1771f4e2.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/um-milagre-inesperado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="DRAMA",MILAGRE INESPERADO
 https://dls7rxd829s2x.cloudfront.net/data/6/4f49db36.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/uPt56D7a55ZNn1yJqKWgBHhqJQ3.jpg" group-title="DRAMA",Milagres do Paraíso 
-https://dls7rxd829s2x.cloudfront.net/data/3/1d97db13.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tzVpukXgB0BwLu1Rr14o9q1495p.jpg" group-title="DRAMA",Sequestro: Inocência Roubada
-https://dls7rxd829s2x.cloudfront.net/data/1/6762d831.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4bnCfbckr574xi5TiWkIZ8luWF4.jpg" group-title="DRAMA",ENJAULADO
-https://dls7rxd829s2x.cloudfront.net/data/d/5183028d.mp4
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
@@ -357,10 +325,11 @@ https://dls7rxd829s2x.cloudfront.net/data/d/318070ed.mp4
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/imagens/jurassic-world-dominio-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="AVENTURA",JURASSIC WORLD - DOMÍNIO
 https://dls7rxd829s2x.cloudfront.net/data/a/1cd4f6ea.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg" group-title="AVENTURA",O Predador: A Caçada
-https://dls7rxd829s2x.cloudfront.net/data/a/41b70ffa.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zjeC2iQBG6WH4jWyZp7wSaS96n.jpg" group-title="AVENTURA",Monster
+https://dls7rxd829s2x.cloudfront.net/data/6/2f58e3f6.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/asOSPLHx67gYgtuUs3StaQkYveD.jpg" group-title="AVENTURA",Pantera Negra: Wakanda para Sempre
+https://dls7rxd829s2x.cloudfront.net/data/0/1cb95c40.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 
@@ -379,7 +348,8 @@ https://dls7rxd829s2x.cloudfront.net/data/c/2dcdd11c.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/9VitwVOlBTRjULKvvur2FLiMz6I.jpg" group-title="SUSPENSE",LUGAR SILENCIOSO 2
 https://dls7rxd829s2x.cloudfront.net/data/2/463acd02.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gWfa1uahpIXlNkv7AMEvQt4VMde.jpg" group-title="SUSPENSE",O Lobo Viking
+https://dls7rxd829s2x.cloudfront.net/data/6/754c0c16.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
 
@@ -438,16 +408,94 @@ https://dls7rxd829s2x.cloudfront.net/data/5/6a674955.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg" group-title="A LISTA TERMINAL" pltv-subgroup="A LISTA TERMINAL 1ª Temporada"track kind="subtitles",A LISTA TERMINAL8
 https://dls7rxd829s2x.cloudfront.net/data/1/548773b1.mp4
+################################################################
 
-#####################################################################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tOJPMGQcN9NUh0nymHwqa039ez5.jpg" group-title="SENHOR DOS ANEIS",EP1
-https://dls7rxd829s2x.cloudfront.net/data/a/1e07606a.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",GLOBO rio
+http://206.1.95.9:8004/play/a054
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tOJPMGQcN9NUh0nymHwqa039ez5.jpg" group-title="SENHOR DOS ANEIS",EP2
-https://dls7rxd829s2x.cloudfront.net/data/2/0f722752.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premiere op1
+http://206.1.95.9:8004/play/a022
 
-###################################################################################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2rafe8jr" group-title="TV-ON",premiere 
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+
+#EXTINF:-1 tvg-logo="https://tiny.one/ooooo" group-title="TV-ON",sportv
+http://206.1.95.9:8004/play/a00f
+
+#EXTINF:-1 tvg-logo="https://tiny.one/bandsp" group-title="TV-ON",bandsport
+http://206.1.95.9:8004/play/a01p
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",A&E
+http://206.1.95.9:8004/play/a03d
+
+#EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet
+http://206.1.95.9:8004/play/a02y
+
+#EXTINF:-1 tvg-logo="https://tiny.one/anial-p" group-title="TV-ON",Animal Planet 1
+http://191.212.166.203:4000/play/a0ec
+
+#EXTINF:-1 tvg-logo="https://tiny.one/amc-j" group-title="TV-ON",amc
+http://206.1.95.9:8004/play/a00u
+
+
+
+#EXTINF:-1 tvg-logo="https://tiny.one/band-nu" group-title="TV-ON",band news
+http://206.1.95.9:8004/play/a020
+
+#EXTINF:-1 tvg-logo="https://tiny.one/combbt" group-title="TV-ON",combat
+http://206.1.95.9:8004/play/a037
+
+#EXTINF:-1 tvg-logo="https://tiny.one/come-cent" group-title="TV-ON",comed central
+http://206.1.95.9:8004/play/a02x
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",espn2
+http://206.1.95.9:8004/play/a027
+
+#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME op1
+http://191.212.166.203:8004/play/a0a0
+
+#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO XTREME
+http://206.1.95.9:8004/play/a04n
+
+#EXTINF:-1 tvg-logo="https://tiny.one/hbo-xtr" group-title="TV-ON",HBO FAMILY
+http://206.1.95.9:8004/play/a03c
+
+#EXTINF:-1 tvg-logo="https://tiny.one/espn23" group-title="TV-ON",ESPN
+http://206.1.95.9:8004/play/a01o
+
+#EXTINF:-1 tvg-logo="https://tiny.one/fxxx23" group-title="TV-ON",FX
+http://45.175.61.242:4000/play/a0a5
+
+#EXTINF:-1 tvg-logo="https://tiny.one/jp233" group-title="TV-ON",JP
+
+
+#EXTINF:-1 tvg-logo="https://tiny.one/5dk2w6aa" group-title="TV-ON",NICKELODEON
+http://206.1.95.10:8004/play/a01v
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc3mufj8" group-title="TV-ON",SPORTV
+http://206.1.95.10:8004/play/a00f
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/b6jjkejd" group-title="TV-ON",TC ACTION
+http://206.1.95.10:8004/play/a017
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",GLOBO2
+http://45.175.61.242:4000/play/a0fb/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+#EXTINF:-1 tvg-logo="" group-title="TV-ON",
+
+
+
+
+##############################################################
 
 #EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP1
 https://dls7rxd829s2x.cloudfront.net/data/d/6ba6513d.mp4
@@ -457,6 +505,352 @@ https://dls7rxd829s2x.cloudfront.net/data/0/704e8630.mp4
 
 #EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP3
 https://dls7rxd829s2x.cloudfront.net/data/a/620cabea.mp4
+
+#EXTINF:-1 tvg-logo="https://tiny.one/casa-dragon" group-title="A CASA DO DRAGAO",EP4
+https://dls7rxd829s2x.cloudfront.net/data/0/7c99e3e0.mp4
+
+##############################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tOJPMGQcN9NUh0nymHwqa039ez5.jpg" group-title="SENHOR DOS ANEIS",EP1
+https://dls7rxd829s2x.cloudfront.net/data/a/1e07606a.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tOJPMGQcN9NUh0nymHwqa039ez5.jpg" group-title="SENHOR DOS ANEIS",EP2
+https://dls7rxd829s2x.cloudfront.net/data/2/0f722752.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tOJPMGQcN9NUh0nymHwqa039ez5.jpg" group-title="SENHOR DOS ANEIS",EP3
+https://dls7rxd829s2x.cloudfront.net/data/e/6c31570e.mp4
+
+######################################################################################################
+
+#EXTINF:-1 tvg-logo="" group-title="BOAT KISS",EP1
+https://dls7rxd829s2x.cloudfront.net/data/7/055c0cb7.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="BOAT KISS",EP2
+https://dls7rxd829s2x.cloudfront.net/data/5/3a6c21e5.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="BOAT KISS",EP3
+https://dls7rxd829s2x.cloudfront.net/data/a/33f8419a.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="BOAT KISS",EP4
+https://dls7rxd829s2x.cloudfront.net/data/0/5a731db0.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="BOAT KISS",EP5
+https://dls7rxd829s2x.cloudfront.net/data/e/0f8332de.mp4
+
+
+
+#################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP1
+https://dls7rxd829s2x.cloudfront.net/data/1/1b327f31.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP2
+https://dls7rxd829s2x.cloudfront.net/data/b/16ba48db.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP3
+https://dls7rxd829s2x.cloudfront.net/data/3/08250fc3.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP4
+https://dls7rxd829s2x.cloudfront.net/data/1/0e3677d1.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4xClOLdKNcsvcSR3ndh47FHpPY9.jpg" group-title="MULHER-HULK",EP5
+https://dls7rxd829s2x.cloudfront.net/data/2/33dd4a02.mp4
+
+#############################################################################################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP1
+https://dls7rxd829s2x.cloudfront.net/data/f/15edafff.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP2
+https://dls7rxd829s2x.cloudfront.net/data/7/05b2a6c7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP3
+https://dls7rxd829s2x.cloudfront.net/data/0/4e002a00.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP4
+https://dls7rxd829s2x.cloudfront.net/data/4/46b58d74.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP5
+https://dls7rxd829s2x.cloudfront.net/data/c/5b18208c.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg" group-title="MIKE - ALÉM DE TYSON",EP6
+https://dls7rxd829s2x.cloudfront.net/data/0/53cd8400.mp4
+#######################################################################################################################################
+
+outros canais
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="multshow"tvg-logo="LOGO" group-title="Italia",multshow
+http://206.1.95.9:8004/play/a02q
+
+
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="central tv"tvg-logo="LOGO" group-title="Italia",central tv
+https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
+
+#EXTINF:01 tvg-ID="http://www.meuguia.tv" tvg-name="amc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="Italia",amc
+
+
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="telecine"tvg-logo="LOGO" group-title="Italia",telecine a
+http://206.1.95.10:8004/play/a017
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="telecine"tvg-logo="LOGO" group-title="Italia",telecine p
+http://206.1.95.10:8004/play/a02t
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb
+http://191.209.60.250:8000/play/a016
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb2
+http://191.209.60.250:8000/play/a015
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="bbb"tvg-logo="LOGO" group-title="Italia",bbb3
+http://191.209.60.250:8000/play/a017
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="globo"tvg-logo="LOGO" group-title="Italia",globo
+http://45.135.194.241:8022/play/a0gl/index.m3u8
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name="globo"tvg-logo="LOGO" group-title="Italia",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name=""tvg-logo="LOGO" group-title="Italia",sporta
+http://sysadminhost.net:8080/apnamagic/a61f47f7/69426
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name=""tvg-logo="LOGO" group-title="Italia",sportb
+http://sysadminhost.net:8080/apnamagic/a61f47f7/343
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name=""tvg-logo="LOGO" group-title="Italia",sportc
+http://sysadminhost.net:8080/apnamagic/a61f47f7/33580
+
+#EXTINF:01 tvg-ID="Multishow.br" tvg-name=""tvg-logo="LOGO" group-title="Italia",sportd
+http://sysadminhost.net:8080/apnamagic/a61f47f7/78322
+
+#EXTINF:0 tvg-id="4FUN DANCE" tvg-name="4FUN DANCE" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png" timeshift="7" catchup="fs" group-title="Italia" ,4FUN DANCE
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=25361&extension=ts&play_token=RTmo97xj57
+
+#EXTINF:0 tvg-id="Canal+ Seriale" tvg-name="Canal+ Seriale" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png" timeshift="7" catchup="fs" group-title="Italia" ,Canal+ Seriale HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=46095&extension=ts&play_token=i7xD33fGKY
+
+
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: Eleven Sports 1 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport1.pl.png" group-title="SPORTS",PL: Eleven Sports 1 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73681
+
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: ELEVEN SPORTS 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png" group-title="SPORTS", ELEVEN SPORTS 2
+http://sysadminhost.net:8080/apnamagic/a61f47f7/3643
+
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: Eleven Sports 2" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport2.pl.png" group-title="SPORTS",ELEVEN SPORTS 2
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/95833
+
+EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: Eleven Sports 3 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport3.pl.png" group-title="SPORTS",PL: Eleven Sports3 op1 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73682
+
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="ELEVEN SPORTS 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" group-title="SPORTS", ELEVEN SPORTS3 op2
+http://sysadminhost.net:8080/apnamagic/a61f47f7/3644
+
+#EXTINF:0 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png" timeshift="7" catchup="fs" group-title="SPORTS"" ,ELEVEN SPORTS 3 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=26527&extension=ts&play_token=HURjfiGaES
+
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Eleven Sports 4 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport4.pl.png" group-title="SPORTS",PL: Eleven Sports 4 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73683
+
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="ELEVEN SPORTS 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" group-title="SPORTS", ELEVEN SPORTS 4
+http://sysadminhost.net:8080/apnamagic/a61f47f7/3645
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 4 " tvg-logo="http://worldiptv.xyz/chlogos/ElevenSport4.pl.png" group-title="SPORTS",ELEVEN SPORTS 4
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73683
+
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="Polsat Sport Premium 1" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" group-title="SPORTS", Polsat Sport Premium 1
+http://sysadminhost.net:8080/apnamagic/a61f47f7/23199
+
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL: Polsat Sport Premium 2" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png" group-title="SPORTS", Polsat Sport Premium 2
+http://sysadminhost.net:8080/apnamagic/a61f47f7/29607
+
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL: Polsat Sport Premium 3" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" group-title="SPORTS", Polsat Sport Premium 3
+http://sysadminhost.net:8080/apnamagic/a61f47f7/147031
+
+#EXTINF:-1 tvg-id="polsatsportpremium4ppv.pl" tvg-name="PL: Polsat Sport Premium 4" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png" group-title="SPORTS", Polsat Sport Premium 4
+http://sysadminhost.net:8080/apnamagic/a61f47f7/147034
+
+#EXTINF:-1 tvg-id="polsatsportpremium5ppv.pl" tvg-name="PL: Polsat Sport Premium 5" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14bd016816e1cbf9669f1b542435f135.png" group-title="SPORTS", Polsat Sport Premium 5
+http://sysadminhost.net:8080/apnamagic/a61f47f7/147035
+
+#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="PL: Sport Klub" tvg-shift="" radio="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/d680eb597fdb3c1a0f42c96bf0cb5a54.png" group-title="SPORTS", Sport Klub
+http://sysadminhost.net:8080/apnamagic/a61f47f7/3211
+
+#EXTINF:0 tvg-id="Canal+ Sport" tvg-name="Canalplus Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=18013&extension=ts&play_token=C1jk2FVAqm
+
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: Canal+ Sport " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.pl.png" group-title="SPORTS",PL: Canal+ Sport 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73662
+
+#EXTINF:0 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2 HD" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport 2 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=18014&extension=ts&play_token=SC15hQfbKM
+
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: Canal Sport 2 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport-2.pl.png" group-title="SPORTS",PL: Canal Sport 2 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73664
+
+#EXTINF:0 tvg-id="Canal+ Sport 3" tvg-name="Canal+ Sport 3" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport 3 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=42359&extension=ts&play_token=7YyBqL0G5e
+
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Canal+  Sport 3" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport3.ke.png" group-title="SPORTS",PL: Canal+  Sport 3
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73765
+
+#EXTINF:0 tvg-id="Canal+ Sport 4" tvg-name="Canal+ Sport 4" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport 4 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=42360&extension=ts&play_token=05466OutMw
+
+#EXTINF:-1 tvg-id="ext" tvg-name="PL: Canal+  Sport 4 " tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="SPORTS",PL: Canal+  Sport 4 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73766
+
+#EXTINF:0 tvg-id="Canal+ Sport 5 HD" tvg-name="Canal+ Sport 5 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+5.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Canal+ Sport 5 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=256446&extension=ts&play_token=1P8rWy9h1A
+
+#EXTINF:0 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Eleven Sports 1 HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=46079&extension=ts&play_token=IW3W86hZ0K
+
+#EXTINF:0 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Extra" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Polsat Sport Extra HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=26522&extension=ts&play_token=PhrGErVbUW
+
+#EXTINF:0 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,Polsat Sport Fight HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=26521&extension=ts&play_token=jDcp33cpbm
+
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL: Fightbox " tvg-logo="http://worldiptv.xyz/chlogos/FightBox.pl.png" group-title="SPORTS",PL: Fightbox 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73686
+
+#EXTINF:0 tvg-id="TVP Sport" tvg-name="TVP Sport" tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png" timeshift="7" catchup="fs" group-title="SPORTS" ,TVP Sport HD
+http://clientsportals.com:2095/play/live.php?mac=00:1a:79:74:C5:8E&stream=18016&extension=ts&play_token=yxC3x6RtOw
+
+#EXTINF:-1 tvg-id="polsatsportextra.pl" tvg-name="PL: Extreme Sports " tvg-logo="http://worldiptv.xyz/chlogos/ExtremeSports.pl.png" group-title="SPORTS",PL: Extreme Sports 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73685
+
+#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="PL: TVP Sport HD+" tvg-logo="http://worldiptv.xyz/chlogos/TVPSport.pl.png" group-title="SPORTS",PL: TVP Sport HD+
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73748
+
+#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="PL: EuroSport 2 " tvg-logo="http://worldiptv.xyz/chlogos/Eurosport2.pl.png" group-title="SPORTS",PL: EuroSport 2 
+http://platin4k.eu:80/iptenjoyim/3GaALqqI2tcL/73684
+
+#################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eleven Sports 1 HD PL
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/46079
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eleven Sports 1 4K
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/348127
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eleven Sports 2 FHD PL
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/11510
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eleven Sports 3 FHD PL
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/26527
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Eurosport 1 HD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/11511
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",EuroSport 2 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/16774
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Extra FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/26522
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Fight FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/26521
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/11519
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport News FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/84196
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 1 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/27677
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 2 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/27678
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 3 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/29307
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 4 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/29306
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 5 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/29305
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Polsat Sport Premium 6 FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/29304
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Sport Klub Polska FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/35644
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN
+http://181.204.210.74:15002/play/a01s
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN op2
+http://170.83.242.8:5350/play/a00u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN2
+http://181.204.210.74:15002/play/a01h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN2 op2
+http://170.83.242.8:5350/play/a02u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN3
+http://181.204.210.74:15002/play/a02z
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN3 op2
+http://170.83.242.8:5350/play/a00h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN4
+http://181.204.210.74:15002/play/a02a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN4 op2
+http://170.83.242.8:5350/play/a01h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",ESPN5
+http://181.204.210.74:15002/play/a02h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Fox Sports2
+http://181.204.210.74:15002/play/a020
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",Fox Sports3
+http://181.204.210.74:15002/play/a021
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",TNT SPORTS HD
+http://181.204.210.74:15002/play/a05r
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",GOL TV
+http://170.83.242.8:5350/play/a00v
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",bola2
+http://206.1.95.13:8004/play/a015
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",bola3
+http://206.1.95.9:8004/play/a016
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",sbt
+http://206.1.95.15:8004/play/a023
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",globo3
+http://200.4.96.47:8000/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+http://51.15.9.155/EUROSPORT_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+http://51.15.9.155/EUROSPORT_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="jogos",
+http://51.15.9.155/EUROSPORT_3/index.m3u8
+
+#######################################################################################################################
+
 
 
 
