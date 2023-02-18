@@ -14,62 +14,59 @@ https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 https://dls7rxd829s2x.cloudfront.net/data/2/4cc74412.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/719aIhGrTrJ0yzkZ806Ea4rbonV.jpg" group-title="FILMES",Ghostbusters Mais Além
-https://dls7rxd829s2x.cloudfront.net/data/d/318070ed.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="FILMES",Homem-Aranha Longe de Casa
-https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/a-tragedia-de-macbeth-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="FILMES",A Tragédia de Macbeth
-https://dls7rxd829s2x.cloudfront.net/data/a/4e75ee7a.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg" group-title="FILMES",It A Coisa
 https://dls7rxd829s2x.cloudfront.net/data/7/035c7b87.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yVksBmUf2uwEruDttP3XtHamS8q.jpg" group-title="FILMES",It A Coisa – Capítulo 2
-https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg" group-title="FILMES",Resident Evil Bem-Vindo a Raccoon Cityyy
-https://dls7rxd829s2x.cloudfront.net/data/6/471eb386.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2tdouTnIOwcRUv9pWHow5vpUGH6.jpg" group-title="FILMES",Feitiço das Trevas
-https://dls7rxd829s2x.cloudfront.net/data/9/0bcfea09.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/a-baba-o-chamado-das-sombras-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="FILMES",A Baba  O Chamado das Sombras
-https://dls7rxd829s2x.cloudfront.net/data/4/353b9684.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u9ekkViulyHAVCPFcXRgk06Z3PK.jpg" group-title="FILMES",O Mistério do Convento 2 Caçadora de Almas
-https://dls7rxd829s2x.cloudfront.net/data/c/3465119c.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3h34xP5pvLTA7ofOrfUnBN7CMDE.jpg" group-title="FILMES",Raizes Macabras
-https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ipjlnmwq2BynJt4ZCLI95PwbFV3.jpg" group-title="FILMES",A Viúva das Sombras
-https://dls7rxd829s2x.cloudfront.net/data/8/2c200418.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/piKPOYLyRfmSUEBO4S4Fyq4bXSI.jpg" group-title="FILMES",Não Adianta Rezar
-https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg" group-title="FILMES",Invocação do Mal 3 A Ordem do Demônio
-https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="FILMES",Maligno
-https://dls7rxd829s2x.cloudfront.net/data/0/0c0cdb90.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/dvsh3qYE2TVhjlQFYV7o13jTAvr.jpg" group-title="FILMES",o chamado 3
-https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jA4h6xw5GhHnwqHtGd1VLNnl9XA.jpg" group-title="FILMES",ROGAI POR NÓS
-https://dls7rxd829s2x.cloudfront.net/data/7/15e4efe7.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="FILMES",filme
-https://fast.getshow.io/p/u/txxqb70041/stream/40238GryFpNraGUUaiNh2v6.m3u8
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg" group-title="FILMES",Eternos
-https://dls7rxd829s2x.cloudfront.net/data/7/6bd05f47.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="FILMES",X-Men Fênix Negra
-https://dash.animaker.com/a/u/txxqb70041/video/dqcbs1635684766375.mp4
+https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 
 
