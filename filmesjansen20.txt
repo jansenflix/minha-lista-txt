@@ -4,11 +4,9 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pyDjGw6CD7PDhtdbjZpLT9YzcPu.jpg" group-title="FILMES",Homem Aranha
 https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES",ARANHA
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pyDjGw6CD7PDhtdbjZpLT9YzcPu.jpg" group-title="FILMES",ARANHA
 https://fast.getshow.io/p/u/txxqb70041/stream/32893hXz98QJMgGVa9bxcv4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES",LOBO
-https://dls7rxd829s2x.cloudfront.net/data/1/5e174a21.mp4
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WFVd1wiGNAk/VVpeejjRqJI/AAAAAAAATIo/yNhy9A4gxEQ/s1600/Estrada%2Bda%2BF%C3%BAria%2Bposter.jpg" group-title="FILMES",FREE
 https://dls7rxd829s2x.cloudfront.net/data/2/4cc74412.mp4
